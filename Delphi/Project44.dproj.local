@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/31 18:18:09.000.152,=C:\Users\fh250049\Documents\Embarcadero\Studio\Projects\Unit55.pas</Transaction>
+    <Transaction>2020/08/31 18:18:38.000.685,C:\Users\fh250049\Documents\Embarcadero\Studio\Projects\Unit55.dfm=C:\Users\fh250049\source\repos\tees\Delphi\Unit55.dfm</Transaction>
+    <Transaction>2020/08/31 18:18:38.000.685,C:\Users\fh250049\Documents\Embarcadero\Studio\Projects\Unit55.pas=C:\Users\fh250049\source\repos\tees\Delphi\Unit55.pas</Transaction>
+    <Transaction>2020/08/31 18:18:44.000.777,C:\Users\fh250049\Documents\Embarcadero\Studio\Projects\Project44.dproj=C:\Users\fh250049\source\repos\tees\Delphi\Project44.dproj</Transaction>
+    <Transaction>2020/08/31 18:21:18.942,C:\Users\fh250049\source\repos\tees\Delphi\Project44.dproj=C:\Users\fh250049\source\repos\tees\Delphi\Project44.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
