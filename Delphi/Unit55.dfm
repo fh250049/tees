@@ -28,5 +28,6 @@ object Form55: TForm55
     Height = 25
     Caption = 'Button2'
     TabOrder = 1
+    OnClick = Button2Click
   end
 end

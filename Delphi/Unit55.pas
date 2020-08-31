@@ -10,6 +10,7 @@ type
   TForm55 = class(TForm)
     Button1: TButton;
     Button2: TButton;
+    procedure Button2Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -22,5 +23,10 @@ var
 implementation
 
 {$R *.dfm}
+
+procedure TForm55.Button2Click(Sender: TObject);
+begin
+  showmessage('sssssssssssss');
+end;
 
 end.
