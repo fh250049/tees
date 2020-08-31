@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.ReadLine();
             Console.WriteLine('sssssssssssssss');
 
+            Console.WriteLine('sssssssssssssss');
         }
     }
 }
