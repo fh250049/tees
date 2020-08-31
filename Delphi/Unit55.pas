@@ -27,6 +27,7 @@ implementation
 procedure TForm55.Button2Click(Sender: TObject);
 begin
   showmessage('sssssssssssss');
+  showmessage('sssssssssssss');
 end;
 
 end.
