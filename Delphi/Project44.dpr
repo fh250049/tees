@@ -1,0 +1,14 @@
+program Project44;
+
+uses
+  Vcl.Forms,
+  Unit55 in 'Unit55.pas' {Form55};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm55, Form55);
+  Application.Run;
+end.
